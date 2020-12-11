@@ -1,3 +1,5 @@
+//копия https://github.com/Xaliks/RudBot/blob/master/commands/botowner/eval.js
+
 const Discord = require("discord.js");
 const os = require('os')
 module.exports = {
