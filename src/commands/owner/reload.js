@@ -1,3 +1,5 @@
+//копия https://github.com/Xaliks/RudBot/blob/master/commands/botowner/reload.js
+
 module.exports = {
   name: 'reload',
   description: "Перезагрузить команду",
