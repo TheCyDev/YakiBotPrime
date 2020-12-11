@@ -1,3 +1,4 @@
+//копия https://github.com/Xaliks/RudBot/blob/master/commands/botowner/bash.js
 
 const { MessageEmbed } = require('discord.js')
 
