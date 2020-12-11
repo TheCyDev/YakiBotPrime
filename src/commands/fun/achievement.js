@@ -1,4 +1,4 @@
-// https://api.alexflipnote.dev/achievement?text=text
+// НЕ РАБОТАЕТ! там другая система.
 const { MessageEmbed } = require("discord.js");
 
 module.exports = {
